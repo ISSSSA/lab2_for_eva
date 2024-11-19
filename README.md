@@ -2,7 +2,7 @@
 Первый делом мы создаем новый проект в PyCharm, открываем терминал  
 и пишем:  
 ```bash 
-git clone https://github.com/alexxxandra1/lab2.git
+git clone https://github.com/ISSSSA/lab2_for_eva.git
 ```
 Следующим шагом мы не забываем вынести все файл из папки, во внешний репазиторий,  
 чтобы не было ошибки как вчера с импортами  
